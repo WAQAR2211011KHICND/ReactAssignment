@@ -1,3 +1,14 @@
 .GoalHeading{
-    font-size: 25px
+    font-size: 25px;
+
+}
+
+.GoalHeading li::marker{
+    font-size: 3rem;
+    padding-left: 20%;
+}
+
+
+.Goal{
+    border: 3px solid black;
 }

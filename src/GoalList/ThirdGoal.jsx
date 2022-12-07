@@ -7,9 +7,9 @@ function ThirdGoal(){
             <li>
                  <h1>Motivate you to continue Learning</h1>
             </li>
+            <p>As a Developer, learning never ends. I want to ensure that my advance (React) resources after finished </p>
         </ul>
 
-        <p>As a Developer, learning never ends. I want to ensure that my advance (React) resources after finished </p>
     </div>
     );
 }

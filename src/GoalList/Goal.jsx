@@ -3,11 +3,11 @@ import SecondGoal from './SecondGoal';
 import ThirdGoal from './ThirdGoal';
 
 function Goal(){
-    return (<>
+    return (<div className='Goal'>
             <FirstGoal/>
             <SecondGoal/>
             <ThirdGoal/>
-    </>)
+    </div>)
 }
 
 export default Goal;
